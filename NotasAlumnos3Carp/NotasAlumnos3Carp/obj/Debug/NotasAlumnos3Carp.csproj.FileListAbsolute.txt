@@ -1,0 +1,7 @@
+C:\Users\Guardado\source\repos\NotasAlumnos3Carp\NotasAlumnos3Carp\bin\Debug\NotasAlumnos3Carp.exe.config
+C:\Users\Guardado\source\repos\NotasAlumnos3Carp\NotasAlumnos3Carp\bin\Debug\NotasAlumnos3Carp.exe
+C:\Users\Guardado\source\repos\NotasAlumnos3Carp\NotasAlumnos3Carp\bin\Debug\NotasAlumnos3Carp.pdb
+C:\Users\Guardado\source\repos\NotasAlumnos3Carp\NotasAlumnos3Carp\obj\Debug\NotasAlumnos3Carp.csproj.AssemblyReference.cache
+C:\Users\Guardado\source\repos\NotasAlumnos3Carp\NotasAlumnos3Carp\obj\Debug\NotasAlumnos3Carp.csproj.CoreCompileInputs.cache
+C:\Users\Guardado\source\repos\NotasAlumnos3Carp\NotasAlumnos3Carp\obj\Debug\NotasAlumnos3Carp.exe
+C:\Users\Guardado\source\repos\NotasAlumnos3Carp\NotasAlumnos3Carp\obj\Debug\NotasAlumnos3Carp.pdb
